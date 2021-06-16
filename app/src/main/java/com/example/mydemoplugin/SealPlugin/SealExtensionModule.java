@@ -1,18 +1,13 @@
-package com.example.mydemoplugin;
-
-import android.support.v4.app.Fragment;
-import android.widget.Toast;
+package com.example.mydemoplugin.SealPlugin;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import io.rong.imkit.DefaultExtensionModule;
-import io.rong.imkit.RongExtension;
 import io.rong.imkit.emoticon.IEmoticonTab;
 import io.rong.imkit.plugin.DefaultLocationPlugin;
 import io.rong.imkit.plugin.IPluginModule;
 import io.rong.imkit.plugin.ImagePlugin;
-import io.rong.imkit.widget.provider.EvaluatePlugin;
 import io.rong.imkit.widget.provider.FilePlugin;
 import io.rong.imlib.model.Conversation;
 

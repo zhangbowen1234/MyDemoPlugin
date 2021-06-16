@@ -5,10 +5,10 @@ package com.example.mydemoplugin;
  **/
 
 import android.app.Application;
-import android.content.Context;
 
 import com.example.mydemoplugin.PhoneInfoProvider.RedPackageMessage;
 import com.example.mydemoplugin.PhoneInfoProvider.RedPackageItemProvider;
+import com.example.mydemoplugin.SealPlugin.SealExtensionModule;
 
 import java.util.List;
 

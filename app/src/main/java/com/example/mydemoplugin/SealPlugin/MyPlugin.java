@@ -1,4 +1,4 @@
-package com.example.mydemoplugin;
+package com.example.mydemoplugin.SealPlugin;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
