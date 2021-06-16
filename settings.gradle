@@ -1,0 +1,5 @@
+include ':CallLib'
+include ':IMKit'
+include ':IMLib'
+include ':app'
+rootProject.name = "MyDemoPlugin"
