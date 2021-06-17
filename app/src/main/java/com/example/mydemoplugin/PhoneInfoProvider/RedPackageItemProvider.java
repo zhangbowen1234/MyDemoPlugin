@@ -24,7 +24,7 @@ import io.rong.imlib.RongIMClient;
 import io.rong.imlib.model.Message;
 
 /**
- * Created by zhangbowen on 6/15/21.PhoneInfo的布局
+ * Created by zhangbowen on 6/15/21.
  * desc新建一个消息类继承 IContainerItemProvider.MessageProvider 类，实现对应接口方法，
  * 1.注意开头的注解！
  * 2.注意泛型！
